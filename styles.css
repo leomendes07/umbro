@@ -1,0 +1,8 @@
+:root{
+    -cor-de-fundo: #196ddb;
+    -cor-cabecalho: #d2ec0b;
+}
+body{
+    background-color: var(-cor-de-fundo);
+    margin: 0;
+}
